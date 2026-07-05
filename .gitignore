@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Java
+*.class
+bin/
+
+# IDEs
+.vscode/
+.idea/
