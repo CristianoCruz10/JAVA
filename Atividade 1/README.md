@@ -1,9 +1,11 @@
-# Atividades Java
+# Atividade 1
 
-Estrutura organizada para as 5 atividades:
+Organização das atividades Java da primeira lista.
+
+## Atividades
 
 - Aritmetica
-- Atividade 2
-- Atividade 3
-- Atividade 4
-- Atividade 5
+- Calculadora IMC
+- Comparação de numeros inteiros
+- Maior e Menor numero inteiro
+- Par ou Impar
