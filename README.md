@@ -4,12 +4,12 @@ Atividades em Java da faculdade.
 
 ## Estrutura
 
-  - Atividade 1/
-  - Aritmetica/
-  - Calculadora IMC/
-  - Comparação de numeros inteiros/
-  - Maior e Menor numero inteiro/
-  - Par ou Impar/
+Atividade 1
+  - Aritmetica
+  - Calculadora IMC
+  - Comparação de numeros inteiros
+  - Maior e Menor numero inteiro
+  - Par ou Impar
 
 ## Como executar
 
