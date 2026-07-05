@@ -4,7 +4,7 @@ Atividades em Java da faculdade.
 
 ## Estrutura
 
-- Atividade 1/
+  - Atividade 1/
   - Aritmetica/
   - Calculadora IMC/
   - Comparação de numeros inteiros/
