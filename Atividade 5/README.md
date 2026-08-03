@@ -1,6 +1,6 @@
 # Exercícios do módulo 5
 
-Cada exercício é independente e contém os arquivos fonte e binários (`.class`) em sua pasta `src`.
+Cada exercício é independente: os arquivos fonte (`.java`) ficam em `src` e os binários (`.class`) ficam em `bin`.
 
 ## Exercício 5 — hierarquia
 
